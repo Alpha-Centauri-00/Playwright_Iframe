@@ -9,3 +9,4 @@ viva
 salt
 test_main.py
 /tests
+*.html
