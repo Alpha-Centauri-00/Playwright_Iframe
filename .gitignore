@@ -9,6 +9,5 @@ vivaa
 salt
 test_main.py
 /tests
-*.html
-*.xml
+
 auto.py
