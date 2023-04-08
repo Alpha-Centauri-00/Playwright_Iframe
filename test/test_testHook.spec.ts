@@ -64,7 +64,7 @@ test.describe("Testing Elements on the Page", () => {
   })
 
   test.afterEach(async ({ page }) => {
-    // Assertions use the expect API.
+    
     await page.close();
     
   });
