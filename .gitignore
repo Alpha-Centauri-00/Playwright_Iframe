@@ -1,0 +1,10 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+.github
+.vscode
+tests-examples
+viva
+salt
+test_main.py
